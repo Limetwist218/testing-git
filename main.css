@@ -15,7 +15,7 @@
 
 .hero {
   min-height: calc(100vh - 5rem);
-  background: black;
+  background: blue;
   color: white;
 }
 
